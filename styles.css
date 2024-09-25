@@ -15,6 +15,16 @@
     background-color: rgb(249, 252, 214);
 } */
 
+h3 {
+    font-size: 16pt;
+    width: 50%;
+    text-align: center;
+    background: radial-gradient(circle, rgb(12, 12, 178) 35%, rgb(195, 245, 245) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
 .carousel-item img {
     height: 500px;
 }
