@@ -1,0 +1,28 @@
+.navbar {
+    background-color: rgb(195, 245, 245);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size:x-large;
+}
+
+.form-outline {
+    border: solid 1px blue;
+}
+
+/* .nav-itemSpecial {
+    background-color: rgb(249, 252, 214);
+} */
+
+.carousel-item img {
+    height: 500px;
+}
+
+
+
+footer {
+    background-color: rgb(195, 245, 245);
+    font-size: small;
+    padding-left: 30px;
+}
